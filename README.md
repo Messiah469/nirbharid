@@ -25,8 +25,13 @@ NirbharID enables workers to own and share their identity and credentials secure
 ### 1. Backend
 ```bash
 node server.js
-2. Mobile App
+```
+### 2. Mobile App
+```bash
 npx expo start --lan
-3. Verifier
+```
+### 3. Verifier
+```bash
 cd nirbharid-verifier
 npm run dev
+```
